@@ -1,0 +1,22 @@
+.paragraph{
+    text-align: center;
+    padding: 5%;
+    background-color:aqua;
+    border: 5px solid violet;
+}
+
+
+#colour{
+    text-align: center;
+    padding: 2%;
+}
+
+#size{
+    text-align: center;
+    padding: 2%;
+}
+
+#style{
+    text-align: center;
+    padding: 2%;
+}
